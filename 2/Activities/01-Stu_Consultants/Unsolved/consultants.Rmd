@@ -1,0 +1,44 @@
+---
+title: "Consultants"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### Dependency
+```{r, warning=FALSE, message=FALSE}
+library(tidyverse)
+```
+
+#### Read and preview CSV
+```{r}
+
+```
+
+#### The total number of consultants
+```{r}
+
+```
+
+#### The number of, and a list of, states where consultants are located
+```{r}
+
+```
+
+#### The average number of hours worked per consultant per state
+```{r}
+
+```
+
+#### The number of consultants per state
+```{r}
+
+```
+
+#### The number of consultants by type
+```{r}
+
+```
+
